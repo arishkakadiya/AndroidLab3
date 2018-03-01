@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="hello_message">"namaste!"</string>
+    <string name="ButtonText">I\'m a button</string>
+    <string name="Login">लॉग इन करें</string>
+    <string name="Password">पारण शब्द</string>
+    <string name="RadioButton">रेडियो बटन</string>
+    <string name="CheckBox">चेकबॉक्स</string>
+    <string name="What_does_this_do">यह स्विच क्या करता है?</string>
+</resources>

@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">MyApplication</string>
+    <string name="app_name">AndroidLabs</string>
+    <string name="hello_message">"Hello World!"</string>
+    <string name="ButtonText">I\'m a button</string>
+    <string name="Login">LOGIN</string>
+    <string name="Password">Password</string>
+    <string name="RadioButton">RadioButton</string>
+    <string name="CheckBox">CheckBox</string>
+    <string name="What_does_this_do">What does this do?</string>
+    <string name="dialog_title">hi</string>
+    <string name="dialog_message">Do you want to exit?</string>
+    <string name="ok">yes</string>
+    <string name="Notok">no</string>
+    <string name="Response">Here is my response</string>
+
 </resources>
