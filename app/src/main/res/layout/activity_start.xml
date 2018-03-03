@@ -24,4 +24,13 @@
         tools:layout_editor_absoluteX="148dp"
         tools:layout_editor_absoluteY="266dp" />
 
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/button"
+        android:layout_below="@+id/button"
+        android:layout_marginTop="21dp"
+        android:text="@string/StartChat" />
+
 </RelativeLayout>

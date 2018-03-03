@@ -12,5 +12,6 @@
     <string name="ok">yes</string>
     <string name="Notok">no</string>
     <string name="Response">Here is my response</string>
-
+    <string name="StartChat">Start Chat</string>
+    <string name="Send">Send</string>
 </resources>
